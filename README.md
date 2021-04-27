@@ -212,9 +212,4 @@ Some further work must take place to read the report if working in a container a
 
 # Rubric
 
-| Item | Point Value |
-| ------- | ----------- |
-| Minimal black-box tests for  ```ConstantPropagation``` with reasonable oracles | 75 |
-| ```ConstantPropagation``` Implementation | 75 |
-| Additional tests for decision coverage | 30 |
-| Adherence to best practices (e.g., no errors, no warnings, documented code, well grouped commits, appropriate commit messages, etc.) | 20 |
+See Canvas for details
